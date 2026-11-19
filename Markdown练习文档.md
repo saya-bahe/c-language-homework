@@ -19,3 +19,23 @@ Markdown练习文档
 
  四、加粗练习
 **文字加粗测试**
+## 五、嵌套列表练习
+- 学习Markdown
+  - 标题语法
+  - 列表语法
+  - 引用语法
+- 上传到GitHub
+  - 创建仓库
+  - 提交文件
+
+## 六、引用练习
+> 这是引用的内容，用来记录笔记。
+
+## 七、代码块练习
+```c
+#include<stdio.h>
+int main()
+{
+    printf("Hello Markdown!");
+    return 0;
+}
